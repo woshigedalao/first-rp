@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../radar/背景.jpg</file>
+    </qresource>
+</RCC>
