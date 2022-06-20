@@ -1,0 +1,5 @@
+﻿  uic QtGuiApplication1.ui
+  QtGuiApplication1.cpp
+  main.cpp
+  moc_QtGuiApplication1.cpp
+  QtGuiApplication1.vcxproj -> D:\qtgc\untitled\QtGuiApplication1\Win32\Debug\QtGuiApplication1.exe
